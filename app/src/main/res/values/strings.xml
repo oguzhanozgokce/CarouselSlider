@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CarouselSlider</string>
+    <string name="carousel_image_1_description">One</string>
+    <string name="carousel_image_2_description">Two</string>
+    <string name="carousel_image_3_description">Three</string>
+    <string name="carousel_image_4_description">Four</string>
+    <string name="carousel_image_5_description">Five</string>
+    <string name="carousel_image_6_description">Six</string>
+</resources>
